@@ -1,0 +1,49 @@
+.matn{
+    text-align: center;
+    background-image: url(qizil.rasm.jpg);
+    color: white;
+    padding: 90px;
+    padding-bottom: 110px;
+    margin-bottom: 30px;
+    
+}
+input{
+    background-color: rgb(19, 101, 224);
+    color: white;
+    font-size: 15px;
+    height: 30px;
+    border-radius: 5px;
+    border-color: rgb(19, 101, 224);
+}
+body{
+    background-color: rgb(236, 233, 224);
+    margin: auto;
+    
+}
+.matn2{
+    border: 2px solid;
+    width: 185px;
+    display: inline-block;
+    margin-left: 8px;
+    margin-right: 8px;
+    background-color: white;
+    border-color: white;
+    margin-bottom: 10px;
+}
+.matn3{
+    text-align: center;
+}
+.p{
+    background-color: black;
+    color: white;
+    margin-bottom: 1px;
+    text-align: center;
+    padding-top: 7px;
+    padding-bottom: 7px;
+}
+span{
+    font-size: 30px;
+}
+p{
+    font-size: 17px;
+}
