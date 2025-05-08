@@ -46,7 +46,19 @@ body{
 }
 span{
     font-size: 30px;
+    text-shadow: -3px -3px 1px rgb(255, 0, 0), 2px 1px 2px rgb(204, 0, 255), -2px 5px 3px rgb(240, 8, 27);
+    font-family: 'Abril Fatface', serif;
 }
 p{
     font-size: 17px;
+}
+h3{
+    font-family: Rubik, sans-serif;
+
+}
+.p1{
+    font-family: Poppins, sans-serif;
+}
+.p2{
+    font-family: "Noto Sans", sans-serif;
 }
